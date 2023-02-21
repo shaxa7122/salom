@@ -1,0 +1,9 @@
+p {
+    width: 100%;
+    background: #000;
+    color: white;
+}
+
+.Ronaldo {
+    display: flex;
+}
