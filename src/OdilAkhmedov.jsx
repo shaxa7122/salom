@@ -23,3 +23,4 @@ function Odilake(props) {
         </div>
     )
 }
+export default Odilake;
